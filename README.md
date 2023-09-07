@@ -24,4 +24,4 @@ Analysis: Contains the Visualizations used for developing insights
 
 ## Visualizations
 
-All the visualizations and some of the analysis can be found on Tableau Public server
+All the visualizations and some of the analysis can be found on Tableau Public server (https://public.tableau.com/views/CitiBike_16935304446770/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/CitiBike_16935304446770/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
