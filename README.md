@@ -10,6 +10,9 @@ Our objective is to conduct an in-depth examination, revealing significant trend
 
 I've taken the Data Set from Kaggle (https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data). The data set contains information about NYCitiBike's stations location as well as trip durations, cutomer gender and age and more.
 
+I also took a NYC Zip-Code GeoJSON from GitHub - [
+](https://github.com/fedhere/PUI2015_EC/blob/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson)
+
 ## Folders
 
 The Citi Bike analysis was separated into the following folders:
