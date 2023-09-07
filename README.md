@@ -8,10 +8,9 @@ Our objective is to conduct an in-depth examination, revealing significant trend
 
 ## Data Set
 
-I've taken the Data Set from [Kaggle] (https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data). The data set contains information about NYCitiBike's stations location as well as trip durations, cutomer gender and age and more.
+I've taken the Data Set from [Kaggle](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data). The data set contains information about NYCitiBike's stations location as well as trip durations, cutomer gender and age and more.
 
-I also took a NYC Zip-Code GeoJSON from GitHub - [NYC Geo JSON]
-(https://github.com/fedhere/PUI2015_EC/blob/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson)
+I also took a NYC Zip-Code GeoJSON from GitHub - [NYC Geo JSON](https://github.com/fedhere/PUI2015_EC/blob/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson).
 
 ## Folders
 
@@ -24,4 +23,4 @@ Analysis: Contains the Visualizations used for developing insights
 
 ## Visualizations
 
-All the visualizations and some of the analysis can be found on Tableau Public server - [Citi Bike Analysis] (https://public.tableau.com/views/CitiBike_16935304446770/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/CitiBike_16935304446770/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+All the visualizations and some of the analysis can be found on Tableau Public server - [Citi Bike Analysis](https://public.tableau.com/views/CitiBike_16935304446770/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
